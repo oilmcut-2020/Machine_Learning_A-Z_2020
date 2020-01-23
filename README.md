@@ -4,7 +4,7 @@
 This course is about Machine Learning with Python & R in Data Science.We will try to help you understand about complex theory, algorithms and coding libraries in a simple way.
 
 # How to use this .?
-1. Open terminal in your Linux Environment, go a path where you want this project.
+1. Open terminal in your Linux Environment 
 2. Then you need to clone " git clone https://github.com/oilmcut-2020/oilmcut-2020-Machine_Learning_A-Z_2020.git "
  
 It is structured the following way:
