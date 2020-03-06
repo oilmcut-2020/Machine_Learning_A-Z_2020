@@ -3,6 +3,7 @@
 Data preprocessing is an integral step in Machine Learning as the quality of data and the useful information that can be derived from it directly affects the ability of our model to learn; therefore, it is extremely important that we preprocess our data before feeding it into our model.
 
 • Pre-processing refers to the transformations applied to our data before feeding it to the algorithm.
+
 • Data Preprocessing is a technique that is used to convert the raw data into a clean data set. In other words, whenever the data is gathered from different sources it is collected in raw format which is not feasible for the analysis.
 
 <p align="center">
